@@ -1,136 +1,131 @@
-Macro: R-301 No Recoil
-- Trigger: RT/R2 (Fire Button)
-- Loop: While RT/R2 is held
-
-Steps:
-1. Right Stick: Move Down (Y: -19.1%) for 19.1ms
-2. Right Stick: Move Left (X: -2%) and Down (Y: 3%) for 19.1ms
-3. Right Stick: Move Right (X: 2%) and Down (Y: 1%) for 19.1ms
-4. Right Stick: Move Left (X: -1%) and Down (Y: 2%) for 19.1ms
-5. Right Stick: Move Left (X: -1%) and Down (Y: 1%) for 19.1ms
-6. Right Stick: Move Right (X: 1%) and Up (Y: -1%) for 19.1ms
-7. Right Stick: Move Left (X: -2%) and Down (Y: 4%) for 19.1ms
-8. Right Stick: Move Right (X: 2%) and Down (Y: 2%) for 19.1ms
-9. Right Stick: Move Right (X: 1%) and Neutral (Y: 0%) for 19.1ms
-10. Right Stick: Move Left (X: -2%) and Down (Y: 3%) for 19.1ms
-11. Right Stick: Move Right (X: 1%) and Neutral (Y: 0%) for 19.1ms
-12. Right Stick: Move Left (X: -2%) and Down (Y: 2%) for 19.1ms
-13. Right Stick: Move Neutral (X: 0%) and Down (Y: 2%) for 19.1ms
-14. Right Stick: Move Right (X: 1%) and Neutral (Y: 0%) for 19.1ms
-15. Right Stick: Move Left (X: -2%) and Down (Y: 2%) for 19.1ms
-16. Right Stick: Move Right (X: 1%) and Up (Y: -1%) for 19.1ms
-17. Right Stick: Move Left (X: -1%) and Down (Y: 3%) for 19.1ms
-18. Right Stick: Move Right (X: 1%) and Down (Y: 1%) for 19.1ms
-19. Right Stick: Move Right (X: 2%) and Neutral (Y: 0%) for 19.1ms
-20. Right Stick: Move Left (X: -1%) and Down (Y: 2%) for 19.1ms
-21. Right Stick: Move Right (X: 1%) and Up (Y: -1%) for 19.1ms
-22. Right Stick: Move Left (X: -1%) and Down (Y: 4%) for 19.1ms
-23. Right Stick: Move Right (X: 1%) and Down (Y: 2%) for 19.1ms
-24. Right Stick: Move Neutral (X: 0%) and Down (Y: 1%) for 19.1ms
-25. Right Stick: Move Neutral (X: 0%) and Down (Y: 1%) for 19.1ms
-26. Right Stick: Move Left (X: -1%) and Down (Y: 2%) for 19.1ms
-27. Right Stick: Move Neutral (X: 0%) and Down (Y: 1%) for 19.1ms
-28. Right Stick: Move Right (X: 2%) and Up (Y: -1%) for 19.1ms
-29. Right Stick: Move Left (X: -2%) and Down (Y: 2%) for 19.1ms
-30. Right Stick: Move Right (X: 1%) and Up (Y: -1%) for 19.1ms
-31. Right Stick: Move Left (X: -2%) and Down (Y: 2%) for 19.1ms
-32. Right Stick: Move Right (X: 1%) and Neutral (Y: 0%) for 19.1ms
-33. Right Stick: Move Left (X: -1%) and Down (Y: 1%) for 19.1ms
-34. Right Stick: Move Left (X: -1%) and Down (Y: 1%) for 19.1ms
-35. Right Stick: Move Left (X: -2%) and Down (Y: 1%) for 19.1ms
-36. Right Stick: Move Neutral (X: 0%) and Neutral (Y: 0%) for 19.1ms
-37. Right Stick: Move Right (X: 1%) and Up (Y: -2%) for 19.1ms
-38. Right Stick: Move Left (X: -2%) and Down (Y: 2%) for 19.1ms
-39. Right Stick: Move Right (X: 1%) and Up (Y: -1%) for 19.1ms
-40. Right Stick: Move Left (X: -2%) and Down (Y: 2%) for 19.1ms
-41. Right Stick: Move Right (X: 1%) and Neutral (Y: 0%) for 19.1ms
-42. Right Stick: Move Left (X: -1%) and Down (Y: 1%) for 19.1ms
-43. Right Stick: Move Left (X: -1%) and Down (Y: 1%) for 19.1ms
-44. Right Stick: Move Right (X: 1%) and Up (Y: -1%) for 19.1ms
-45. Right Stick: Move Left (X: -3%) and Down (Y: 1%) for 19.1ms
-46. Right Stick: Move Right (X: 1%) and Up (Y: -2%) for 19.1ms
-47. Right Stick: Move Left (X: -2%) and Down (Y: 1%) for 19.1ms
-48. Right Stick: Move Right (X: 1%) and Up (Y: -1%) for 19.1ms
-49. Right Stick: Move Left (X: -2%) and Down (Y: 2%) for 19.1ms
-50. Right Stick: Move Neutral (X: 0%) and Up (Y: -1%) for 19.1ms
-51. Right Stick: Move Left (X: -1%) and Neutral (Y: 0%) for 19.1ms
-52. Right Stick: Move Left (X: -1%) and Neutral (Y: 0%) for 19.1ms
-53. Right Stick: Move Right (X: 1%) and Up (Y: -1%) for 19.1ms
-54. Right Stick: Move Neutral (X: 0%) and Down (Y: 3%) for 19.1ms
-55. Right Stick: Move Right (X: 2%) and Up (Y: -1%) for 19.1ms
-56. Right Stick: Move Left (X: -1%) and Down (Y: 1%) for 19.1ms
-57. Right Stick: Move Neutral (X: 0%) and Neutral (Y: 0%) for 19.1ms
-58. Right Stick: Move Right (X: 2%) and Down (Y: 2%) for 19.1ms
-59. Right Stick: Move Right (X: 2%) and Down (Y: 1%) for 19.1ms
-60. Right Stick: Move Right (X: 1%) and Neutral (Y: 0%) for 19.1ms
-61. Right Stick: Move Neutral (X: 0%) and Down (Y: 1%) for 19.1ms
-62. Right Stick: Move Right (X: 1%) and Neutral (Y: 0%) for 19.1ms
-63. Right Stick: Move Neutral (X: 0%) and Down (Y: 1%) for 19.1ms
-64. Right Stick: Move Right (X: 2%) and Up (Y: -1%) for 19.1ms
-65. Right Stick: Move Right (X: 1%) and Neutral (Y: 0%) for 19.1ms
-66. Right Stick: Move Left (X: -1%) and Down (Y: 1%) for 19.1ms
-67. Right Stick: Move Right (X: 1%) and Up (Y: -1%) for 19.1ms
-68. Right Stick: Move Neutral (X: 0%) and Down (Y: 2%) for 19.1ms
-69. Right Stick: Move Right (X: 1%) and Neutral (Y: 0%) for 19.1ms
-70. Right Stick: Move Right (X: 2%) and Up (Y: -2%) for 19.1ms
-71. Right Stick: Move Left (X: -1%) and Down (Y: 2%) for 19.1ms
-72. Right Stick: Move Right (X: 2%) and Up (Y: -1%) for 19.1ms
-73. Right Stick: Move Right (X: 1%) and Down (Y: 1%) for 19.1ms
-74. Right Stick: Move Right (X: 2%) and Up (Y: -1%) for 19.1ms
-75. Right Stick: Move Right (X: 1%) and Neutral (Y: 0%) for 19.1ms
-76. Right Stick: Move Neutral (X: 0%) and Neutral (Y: 0%) for 19.1ms
-77. Right Stick: Move Right (X: 1%) and Up (Y: -1%) for 19.1ms
-78. Right Stick: Move Neutral (X: 0%) and Down (Y: 1%) for 19.1ms
-79. Right Stick: Move Right (X: 2%) and Up (Y: -1%) for 19.1ms
-80. Right Stick: Move Left (X: -1%) and Down (Y: 1%) for 19.1ms
-81. Right Stick: Move Right (X: 1%) and Up (Y: -1%) for 19.1ms
-82. Right Stick: Move Neutral (X: 0%) and Down (Y: 2%) for 19.1ms
-83. Right Stick: Move Right (X: 2%) and Up (Y: -1%) for 19.1ms
-84. Right Stick: Move Neutral (X: 0%) and Down (Y: 1%) for 19.1ms
-85. Right Stick: Move Neutral (X: 0%) and Down (Y: 1%) for 19.1ms
-86. Right Stick: Move Right (X: 1%) and Up (Y: -1%) for 19.1ms
-87. Right Stick: Move Left (X: -3%) and Down (Y: 1%) for 19.1ms
-88. Right Stick: Move Right (X: 1%) and Up (Y: -2%) for 19.1ms
-89. Right Stick: Move Left (X: -1%) and Neutral (Y: 0%) for 19.1ms
-90. Right Stick: Move Left (X: -1%) and Down (Y: 1%) for 19.1ms
-91. Right Stick: Move Left (X: -1%) and Neutral (Y: 0%) for 19.1ms
-92. Right Stick: Move Right (X: 1%) and Up (Y: -1%) for 19.1ms
-93. Right Stick: Move Neutral (X: 0%) and Neutral (Y: 0%) for 19.1ms
-94. Right Stick: Move Left (X: -1%) and Down (Y: 1%) for 19.1ms
-95. Right Stick: Move Right (X: 1%) and Up (Y: -1%) for 19.1ms
-96. Right Stick: Move Left (X: -3%) and Down (Y: 2%) for 19.1ms
-97. Right Stick: Move Neutral (X: 0%) and Up (Y: -1%) for 19.1ms
-98. Right Stick: Move Left (X: -1%) and Down (Y: 1%) for 19.1ms
-99. Right Stick: Move Neutral (X: 0%) and Neutral (Y: 0%) for 19.1ms
-100. Right Stick: Move Neutral (X: 0%) and Neutral (Y: 0%) for 19.1ms
-101. Right Stick: Move Left (X: -2%) and Neutral (Y: 0%) for 19.1ms
-102. Right Stick: Move Right (X: 1%) and Up (Y: -2%) for 19.1ms
-103. Right Stick: Move Left (X: -2%) and Down (Y: 1%) for 19.1ms
-104. Right Stick: Move Right (X: 1%) and Up (Y: -1%) for 19.1ms
-105. Right Stick: Move Left (X: -2%) and Down (Y: 1%) for 19.1ms
-106. Right Stick: Move Neutral (X: 0%) and Neutral (Y: 0%) for 19.1ms
-107. Right Stick: Move Left (X: -1%) and Neutral (Y: 0%) for 19.1ms
-108. Right Stick: Move Left (X: -1%) and Down (Y: 1%) for 19.1ms
-109. Right Stick: Move Neutral (X: 0%) and Up (Y: -1%) for 19.1ms
-110. Right Stick: Move Left (X: -3%) and Up (Y: -1%) for 19.1ms
-111. Right Stick: Move Right (X: 1%) and Up (Y: -2%) for 19.1ms
-112. Right Stick: Move Left (X: -1%) and Down (Y: 1%) for 19.1ms
-113. Right Stick: Move Left (X: -1%) and Neutral (Y: 0%) for 19.1ms
-114. Right Stick: Move Left (X: -2%) and Neutral (Y: 0%) for 19.1ms
-115. Right Stick: Move Neutral (X: 0%) and Up (Y: -1%) for 19.1ms
-116. Right Stick: Move Right (X: 1%) and Up (Y: -2%) for 19.1ms
-117. Right Stick: Move Left (X: -2%) and Down (Y: 1%) for 19.1ms
-118. Right Stick: Move Right (X: 1%) and Up (Y: -1%) for 19.1ms
-119. Right Stick: Move Left (X: -1%) and Down (Y: 2%) for 19.1ms
-120. Right Stick: Move Right (X: 1%) and Up (Y: -1%) for 19.1ms
-121. Right Stick: Move Left (X: -1%) and Down (Y: 1%) for 19.1ms
-122. Right Stick: Move Left (X: -1%) and Down (Y: 1%) for 19.1ms
-123. Right Stick: Move Right (X: 1%) and Up (Y: -1%) for 19.1ms
-124. Right Stick: Move Left (X: -1%) and Down (Y: 1%) for 19.1ms
-125. Right Stick: Move Right (X: 1%) and Up (Y: -2%) for 19.1ms
-126. Right Stick: Move Neutral (X: 0%) and Neutral (Y: 0%) for 19.1ms
-127. Right Stick: Move Neutral (X: 0%) and Neutral (Y: 0%) for 19.1ms
-128. Right Stick: Move Left (X: -1%) and Down (Y: 1%) for 19.1ms
-129. Right Stick: Move Neutral (X: 0%) and Down (Y: 1%) for 19.1ms
-130. Right Stick: Move Right (X: 1%) and Up (Y: -1%) for 19.1ms
-131. Right Stick: Move Left (X: -1%) and Down (Y: 2%) for 19.1ms
+Right Stick: X=0, Y=-19, Delay=19.1 ms
+Right Stick: X=-2, Y=3, Delay=19.1 ms
+Right Stick: X=2, Y=1, Delay=19.1 ms
+Right Stick: X=-1, Y=2, Delay=19.1 ms
+Right Stick: X=-1, Y=1, Delay=19.1 ms
+Right Stick: X=1, Y=-1, Delay=19.1 ms
+Right Stick: X=-2, Y=4, Delay=19.1 ms
+Right Stick: X=2, Y=2, Delay=19.1 ms
+Right Stick: X=1, Y=0, Delay=19.1 ms
+Right Stick: X=-2, Y=3, Delay=19.1 ms
+Right Stick: X=1, Y=0, Delay=19.1 ms
+Right Stick: X=-2, Y=2, Delay=19.1 ms
+Right Stick: X=0, Y=2, Delay=19.1 ms
+Right Stick: X=1, Y=0, Delay=19.1 ms
+Right Stick: X=-2, Y=2, Delay=19.1 ms
+Right Stick: X=1, Y=-1, Delay=19.1 ms
+Right Stick: X=-1, Y=3, Delay=19.1 ms
+Right Stick: X=1, Y=1, Delay=19.1 ms
+Right Stick: X=2, Y=0, Delay=19.1 ms
+Right Stick: X=-1, Y=2, Delay=19.1 ms
+Right Stick: X=1, Y=-1, Delay=19.1 ms
+Right Stick: X=-1, Y=4, Delay=19.1 ms
+Right Stick: X=1, Y=2, Delay=19.1 ms
+Right Stick: X=0, Y=1, Delay=19.1 ms
+Right Stick: X=0, Y=1, Delay=19.1 ms
+Right Stick: X=-1, Y=2, Delay=19.1 ms
+Right Stick: X=0, Y=1, Delay=19.1 ms
+Right Stick: X=2, Y=-1, Delay=19.1 ms
+Right Stick: X=-2, Y=2, Delay=19.1 ms
+Right Stick: X=1, Y=-1, Delay=19.1 ms
+Right Stick: X=-2, Y=2, Delay=19.1 ms
+Right Stick: X=1, Y=0, Delay=19.1 ms
+Right Stick: X=-1, Y=1, Delay=19.1 ms
+Right Stick: X=-1, Y=1, Delay=19.1 ms
+Right Stick: X=-2, Y=1, Delay=19.1 ms
+Right Stick: X=0, Y=0, Delay=19.1 ms
+Right Stick: X=1, Y=-2, Delay=19.1 ms
+Right Stick: X=-2, Y=2, Delay=19.1 ms
+Right Stick: X=1, Y=-1, Delay=19.1 ms
+Right Stick: X=-2, Y=2, Delay=19.1 ms
+Right Stick: X=1, Y=0, Delay=19.1 ms
+Right Stick: X=-1, Y=1, Delay=19.1 ms
+Right Stick: X=-1, Y=1, Delay=19.1 ms
+Right Stick: X=1, Y=-1, Delay=19.1 ms
+Right Stick: X=-3, Y=1, Delay=19.1 ms
+Right Stick: X=1, Y=-2, Delay=19.1 ms
+Right Stick: X=-2, Y=1, Delay=19.1 ms
+Right Stick: X=1, Y=-1, Delay=19.1 ms
+Right Stick: X=-2, Y=2, Delay=19.1 ms
+Right Stick: X=0, Y=-1, Delay=19.1 ms
+Right Stick: X=-1, Y=0, Delay=19.1 ms
+Right Stick: X=-1, Y=0, Delay=19.1 ms
+Right Stick: X=1, Y=-1, Delay=19.1 ms
+Right Stick: X=0, Y=3, Delay=19.1 ms
+Right Stick: X=2, Y=-1, Delay=19.1 ms
+Right Stick: X=-1, Y=1, Delay=19.1 ms
+Right Stick: X=0, Y=0, Delay=19.1 ms
+Right Stick: X=2, Y=2, Delay=19.1 ms
+Right Stick: X=2, Y=1, Delay=19.1 ms
+Right Stick: X=1, Y=0, Delay=19.1 ms
+Right Stick: X=0, Y=1, Delay=19.1 ms
+Right Stick: X=1, Y=0, Delay=19.1 ms
+Right Stick: X=0, Y=1, Delay=19.1 ms
+Right Stick: X=2, Y=-1, Delay=19.1 ms
+Right Stick: X=1, Y=0, Delay=19.1 ms
+Right Stick: X=-1, Y=1, Delay=19.1 ms
+Right Stick: X=1, Y=-1, Delay=19.1 ms
+Right Stick: X=0, Y=2, Delay=19.1 ms
+Right Stick: X=1, Y=0, Delay=19.1 ms
+Right Stick: X=2, Y=-2, Delay=19.1 ms
+Right Stick: X=-1, Y=2, Delay=19.1 ms
+Right Stick: X=2, Y=-1, Delay=19.1 ms
+Right Stick: X=1, Y=1, Delay=19.1 ms
+Right Stick: X=2, Y=-1, Delay=19.1 ms
+Right Stick: X=1, Y=0, Delay=19.1 ms
+Right Stick: X=0, Y=0, Delay=19.1 ms
+Right Stick: X=1, Y=-1, Delay=19.1 ms
+Right Stick: X=0, Y=1, Delay=19.1 ms
+Right Stick: X=2, Y=-1, Delay=19.1 ms
+Right Stick: X=-1, Y=1, Delay=19.1 ms
+Right Stick: X=1, Y=-1, Delay=19.1 ms
+Right Stick: X=0, Y=2, Delay=19.1 ms
+Right Stick: X=2, Y=-1, Delay=19.1 ms
+Right Stick: X=0, Y=1, Delay=19.1 ms
+Right Stick: X=0, Y=1, Delay=19.1 ms
+Right Stick: X=1, Y=-1, Delay=19.1 ms
+Right Stick: X=-3, Y=1, Delay=19.1 ms
+Right Stick: X=1, Y=-2, Delay=19.1 ms
+Right Stick: X=-1, Y=0, Delay=19.1 ms
+Right Stick: X=-1, Y=1, Delay=19.1 ms
+Right Stick: X=-1, Y=0, Delay=19.1 ms
+Right Stick: X=1, Y=-1, Delay=19.1 ms
+Right Stick: X=0, Y=0, Delay=19.1 ms
+Right Stick: X=-1, Y=1, Delay=19.1 ms
+Right Stick: X=1, Y=-1, Delay=19.1 ms
+Right Stick: X=-3, Y=2, Delay=19.1 ms
+Right Stick: X=0, Y=-1, Delay=19.1 ms
+Right Stick: X=-1, Y=1, Delay=19.1 ms
+Right Stick: X=0, Y=0, Delay=19.1 ms
+Right Stick: X=0, Y=0, Delay=19.1 ms
+Right Stick: X=-2, Y=0, Delay=19.1 ms
+Right Stick: X=1, Y=-2, Delay=19.1 ms
+Right Stick: X=-2, Y=1, Delay=19.1 ms
+Right Stick: X=1, Y=-1, Delay=19.1 ms
+Right Stick: X=-2, Y=1, Delay=19.1 ms
+Right Stick: X=0, Y=0, Delay=19.1 ms
+Right Stick: X=-1, Y=0, Delay=19.1 ms
+Right Stick: X=-1, Y=1, Delay=19.1 ms
+Right Stick: X=0, Y=-1, Delay=19.1 ms
+Right Stick: X=-3, Y=-1, Delay=19.1 ms
+Right Stick: X=1, Y=-2, Delay=19.1 ms
+Right Stick: X=-1, Y=1, Delay=19.1 ms
+Right Stick: X=-1, Y=0, Delay=19.1 ms
+Right Stick: X=-2, Y=0, Delay=19.1 ms
+Right Stick: X=0, Y=-1, Delay=19.1 ms
+Right Stick: X=1, Y=-2, Delay=19.1 ms
+Right Stick: X=-2, Y=1, Delay=19.1 ms
+Right Stick: X=1, Y=-1, Delay=19.1 ms
+Right Stick: X=-1, Y=2, Delay=19.1 ms
+Right Stick: X=1, Y=-1, Delay=19.1 ms
+Right Stick: X=-1, Y=1, Delay=19.1 ms
+Right Stick: X=-1, Y=1, Delay=19.1 ms
+Right Stick: X=1, Y=-1, Delay=19.1 ms
+Right Stick: X=-1, Y=1, Delay=19.1 ms
+Right Stick: X=1, Y=-2, Delay=19.1 ms
+Right Stick: X=0, Y=0, Delay=19.1 ms
+Right Stick: X=0, Y=0, Delay=19.1 ms
+Right Stick: X=-1, Y=1, Delay=19.1 ms
+Right Stick: X=0, Y=1, Delay=19.1 ms
+Right Stick: X=1, Y=-1, Delay=19.1 ms
+Right Stick: X=-1, Y=2, Delay=19.1 ms
