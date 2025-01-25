@@ -1,0 +1,2 @@
+# ApexLegendsNoRecoil
+No Recoil
